@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-05-10T14:21:58.776Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="PvEZI6x9-eX017wkCFhh" version="14.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-10T14:43:46.900Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="cr5ssMXv-mu3MwP-snK7" version="14.6.10" type="github">
   <diagram id="PAdfL6VN2EhejQQq1YbZ" name="Page-1">
     <mxGraphModel dx="1038" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TzUtRcMb0uJwbtIcXtYQ-21" value="Google Cloud&amp;nbsp;" style="outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;strokeColor=#666666;fillColor=#f5f5f5;verticalAlign=top;align=center;fontColor=#333333;dashed=1;spacingTop=3;" parent="1" vertex="1">
+        <mxCell id="TzUtRcMb0uJwbtIcXtYQ-21" value="Google Cloud&amp;nbsp;" style="outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;strokeColor=#6c8ebf;fillColor=#dae8fc;verticalAlign=top;align=center;dashed=1;spacingTop=3;" parent="1" vertex="1">
           <mxGeometry x="580" y="180" width="220" height="400" as="geometry" />
         </mxCell>
         <mxCell id="TzUtRcMb0uJwbtIcXtYQ-1" value="Cloud IAM" style="html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_iam" parent="1" vertex="1">
@@ -19,13 +19,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TzUtRcMb0uJwbtIcXtYQ-22" value="DOE Organizations&lt;br&gt;&lt;br&gt;&lt;br&gt;LM" style="outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;strokeColor=#6c8ebf;fillColor=#dae8fc;verticalAlign=top;align=center;dashed=1;spacingTop=3;" parent="1" vertex="1">
-          <mxGeometry x="80" y="170" width="130" height="130" as="geometry" />
+          <mxGeometry x="80" y="540.5" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TzUtRcMb0uJwbtIcXtYQ-23" value="DOE Organizations&lt;br&gt;&lt;br&gt;NETL" style="outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;strokeColor=#9673a6;fillColor=#e1d5e7;verticalAlign=top;align=center;dashed=1;spacingTop=3;" parent="1" vertex="1">
-          <mxGeometry x="80" y="319.75" width="130" height="130" as="geometry" />
+          <mxGeometry x="80" y="420" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TzUtRcMb0uJwbtIcXtYQ-24" value="DOE Organizations&lt;br&gt;&lt;br&gt;EITS(HQ)" style="outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;strokeColor=#82b366;fillColor=#d5e8d4;verticalAlign=top;align=center;dashed=1;spacingTop=3;" parent="1" vertex="1">
-          <mxGeometry x="80" y="474.5" width="130" height="130" as="geometry" />
+          <mxGeometry x="80" y="474.5" width="130" height="65.5" as="geometry" />
         </mxCell>
         <mxCell id="TzUtRcMb0uJwbtIcXtYQ-25" value="Groups" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Management_Groups.svg;" parent="1" vertex="1">
           <mxGeometry x="626" y="530" width="50" height="40" as="geometry" />
@@ -33,7 +33,7 @@
         <mxCell id="KueMOoC9e1tc7Dg8YHgg-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.984;entryY=0.316;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.175;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TzUtRcMb0uJwbtIcXtYQ-26" target="KueMOoC9e1tc7Dg8YHgg-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KueMOoC9e1tc7Dg8YHgg-27" value="2. Redirect to OneID for AuthN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#009999;" vertex="1" connectable="0" parent="KueMOoC9e1tc7Dg8YHgg-23">
+        <mxCell id="KueMOoC9e1tc7Dg8YHgg-27" value="2. Redirect to OneID for AuthN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" vertex="1" connectable="0" parent="KueMOoC9e1tc7Dg8YHgg-23">
           <mxGeometry x="-0.4056" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -53,7 +53,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KueMOoC9e1tc7Dg8YHgg-2" value="One ID LDAP&amp;nbsp;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.on_premises_directory;" vertex="1" parent="1">
-          <mxGeometry x="265.75" y="510" width="50" height="59" as="geometry" />
+          <mxGeometry x="255" y="460" width="50" height="59" as="geometry" />
         </mxCell>
         <mxCell id="KueMOoC9e1tc7Dg8YHgg-6" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" vertex="1" parent="1">
           <mxGeometry x="710" y="532" width="50" height="48" as="geometry" />
@@ -61,19 +61,19 @@
         <mxCell id="KueMOoC9e1tc7Dg8YHgg-9" value="Cloud&#xa;Bigtable" style="html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_bigtable" vertex="1" parent="1">
           <mxGeometry x="750" y="532" width="66" height="58.5" as="geometry" />
         </mxCell>
-        <mxCell id="KueMOoC9e1tc7Dg8YHgg-10" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+        <mxCell id="KueMOoC9e1tc7Dg8YHgg-10" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;edgeStyle=orthogonalEdgeStyle;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;strokeColor=#FF0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="722.7999877929688" as="sourcePoint" />
             <mxPoint x="440" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KueMOoC9e1tc7Dg8YHgg-11" value="Network Boundary(Firewall)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KueMOoC9e1tc7Dg8YHgg-10">
+        <mxCell id="KueMOoC9e1tc7Dg8YHgg-11" value="Network Boundary(Firewall)" style="edgeLabel;html=1;align=left;verticalAlign=bottom;resizable=0;points=[];labelPosition=right;verticalLabelPosition=top;" vertex="1" connectable="0" parent="KueMOoC9e1tc7Dg8YHgg-10">
           <mxGeometry x="0.7263" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KueMOoC9e1tc7Dg8YHgg-12" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/user.svg;" vertex="1" parent="1">
-          <mxGeometry x="340" y="390" width="18.5" height="50" as="geometry" />
+          <mxGeometry x="360" y="380" width="18.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KueMOoC9e1tc7Dg8YHgg-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.175;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KueMOoC9e1tc7Dg8YHgg-17" target="TzUtRcMb0uJwbtIcXtYQ-26">
           <mxGeometry relative="1" as="geometry">
@@ -84,7 +84,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KueMOoC9e1tc7Dg8YHgg-26" value="1 Access Console URL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#009999;" vertex="1" connectable="0" parent="KueMOoC9e1tc7Dg8YHgg-19">
+        <mxCell id="KueMOoC9e1tc7Dg8YHgg-26" value="1 Access Console URL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" vertex="1" connectable="0" parent="KueMOoC9e1tc7Dg8YHgg-19">
           <mxGeometry x="0.414" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -92,7 +92,7 @@
         <mxCell id="KueMOoC9e1tc7Dg8YHgg-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KueMOoC9e1tc7Dg8YHgg-17" target="KueMOoC9e1tc7Dg8YHgg-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KueMOoC9e1tc7Dg8YHgg-28" value="3. Authentication Request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#009999;" vertex="1" connectable="0" parent="KueMOoC9e1tc7Dg8YHgg-24">
+        <mxCell id="KueMOoC9e1tc7Dg8YHgg-28" value="3. Authentication Request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" vertex="1" connectable="0" parent="KueMOoC9e1tc7Dg8YHgg-24">
           <mxGeometry x="0.2513" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -103,13 +103,13 @@
         <mxCell id="KueMOoC9e1tc7Dg8YHgg-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KueMOoC9e1tc7Dg8YHgg-21" target="KueMOoC9e1tc7Dg8YHgg-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KueMOoC9e1tc7Dg8YHgg-29" value="4. Successful AuthN gets s SAML Token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#009999;" vertex="1" connectable="0" parent="KueMOoC9e1tc7Dg8YHgg-25">
+        <mxCell id="KueMOoC9e1tc7Dg8YHgg-29" value="4. Successful AuthN gets s SAML Token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" vertex="1" connectable="0" parent="KueMOoC9e1tc7Dg8YHgg-25">
           <mxGeometry x="0.3162" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KueMOoC9e1tc7Dg8YHgg-21" value="One ID Federation Services" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.ad_fs" vertex="1" parent="1">
-          <mxGeometry x="260" y="170" width="40" height="50" as="geometry" />
+          <mxGeometry x="160" y="170" width="40" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
