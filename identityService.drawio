@@ -1,1 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T21:59:33.844Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" version="14.7.2" etag="yBgd1MRueUsIbSoU4HjJ" type="github"><diagram id="R4JK_hH5Vu1pTfF8X9qe">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-26T22:13:02.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="GVcT9zgN0SQlLCME_z11" version="14.7.2" type="github">
+  <diagram id="R4JK_hH5Vu1pTfF8X9qe" name="Page-1">
+    <mxGraphModel dx="2233" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iPqhayD8khxU9gWUkk3F-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="275" y="700" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iPqhayD8khxU9gWUkk3F-2" value="OUD LDAP" style="points=[[0.5,0,0],[0.765,0.48,0],[0.99,0.98,0],[0.5,1,0],[0.01,0.98,0],[0.235,0.48,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.ldap;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="750" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iPqhayD8khxU9gWUkk3F-5" value="SOA/BPM server" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/SDKs_copy_Java-128.png" vertex="1" parent="1">
+          <mxGeometry x="361" y="400" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="iPqhayD8khxU9gWUkk3F-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iPqhayD8khxU9gWUkk3F-6" target="iPqhayD8khxU9gWUkk3F-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iPqhayD8khxU9gWUkk3F-9" value="Find all &quot;Claim Reviewers&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iPqhayD8khxU9gWUkk3F-8">
+          <mxGeometry x="-0.4877" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iPqhayD8khxU9gWUkk3F-6" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iPqhayD8khxU9gWUkk3F-10" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iPqhayD8khxU9gWUkk3F-5" target="iPqhayD8khxU9gWUkk3F-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="570" as="sourcePoint" />
+            <mxPoint x="450" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iPqhayD8khxU9gWUkk3F-11" value="1. Find all Users/Groups assigned to &quot;Claim Reviewer Role&quot;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="95" y="610" width="330" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iPqhayD8khxU9gWUkk3F-12" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iPqhayD8khxU9gWUkk3F-5" target="iPqhayD8khxU9gWUkk3F-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="570" as="sourcePoint" />
+            <mxPoint x="450" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iPqhayD8khxU9gWUkk3F-13" value="Find all Users belonging to each Group" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iPqhayD8khxU9gWUkk3F-12">
+          <mxGeometry x="0.1253" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
