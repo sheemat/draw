@@ -1,1 +1,149 @@
-<mxfile modified="2021-06-30T15:57:06.341Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="3fyx0x8dK4AzfWf5Wc-x" version="14.7.2" type="github"><diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">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</diagram></mxfile>
+<mxfile modified="2021-06-30T18:50:04.066Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="VbtE_PDejdWhtenB3pOM" version="14.7.2" type="github" pages="3">
+  <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Original">
+    <mxGraphModel dx="3402" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="w6aovijvgRljOVlgrTKk-3" value="OAM" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="308.75" y="430" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="w6aovijvgRljOVlgrTKk-4" value="MEDNEXT OHS&amp;nbsp;&lt;br&gt;With Webgate" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="810" y="430" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="w6aovijvgRljOVlgrTKk-5" value="MEDNEXT App" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="810" y="530" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="w6aovijvgRljOVlgrTKk-9" value="Load balancer/VIP" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.load_balancer_generic;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="350" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w6aovijvgRljOVlgrTKk-10" value="OKTA" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry y="340" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="w6aovijvgRljOVlgrTKk-11" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w6aovijvgRljOVlgrTKk-12" value="1. Tries to Access Mednext App" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="w6aovijvgRljOVlgrTKk-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="180" as="sourcePoint" />
+            <mxPoint x="610" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w6aovijvgRljOVlgrTKk-13" value="2. Redirected to OAM" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="180" as="sourcePoint" />
+            <mxPoint x="400" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w6aovijvgRljOVlgrTKk-14" value="" style="endArrow=classic;html=1;entryX=0.403;entryY=-0.06;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="w6aovijvgRljOVlgrTKk-11" target="w6aovijvgRljOVlgrTKk-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="590" as="sourcePoint" />
+            <mxPoint x="610" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w6aovijvgRljOVlgrTKk-15" value="3. OKTA Credential Collection" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w6aovijvgRljOVlgrTKk-14">
+          <mxGeometry x="-0.1628" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="CORS" id="H-nKEMujmPgKpY57xjPL">
+    <mxGraphModel dx="3402" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="ds1vuwu6bbxi6zBLDs3t-0" />
+        <mxCell id="ds1vuwu6bbxi6zBLDs3t-1" parent="ds1vuwu6bbxi6zBLDs3t-0" />
+        <mxCell id="ds1vuwu6bbxi6zBLDs3t-2" value="OAM" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="ds1vuwu6bbxi6zBLDs3t-1">
+          <mxGeometry x="320" y="550" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ds1vuwu6bbxi6zBLDs3t-3" value="MEDNEXT OHS&amp;nbsp;&lt;br&gt;With Webgate" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="ds1vuwu6bbxi6zBLDs3t-1">
+          <mxGeometry x="810" y="430" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ds1vuwu6bbxi6zBLDs3t-4" value="MEDNEXT App" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="ds1vuwu6bbxi6zBLDs3t-1">
+          <mxGeometry x="810" y="530" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ds1vuwu6bbxi6zBLDs3t-5" value="Load balancer/VIP" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.load_balancer_generic;pointerEvents=1;" vertex="1" parent="ds1vuwu6bbxi6zBLDs3t-1">
+          <mxGeometry x="340" y="350" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ds1vuwu6bbxi6zBLDs3t-6" value="OKTA" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="ds1vuwu6bbxi6zBLDs3t-1">
+          <mxGeometry y="340" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ds1vuwu6bbxi6zBLDs3t-7" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="ds1vuwu6bbxi6zBLDs3t-1">
+          <mxGeometry x="710" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ds1vuwu6bbxi6zBLDs3t-8" value="1. Tries to Access Mednext App" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ds1vuwu6bbxi6zBLDs3t-1" target="ds1vuwu6bbxi6zBLDs3t-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="180" as="sourcePoint" />
+            <mxPoint x="610" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ds1vuwu6bbxi6zBLDs3t-9" value="2. Redirected to OAM" style="endArrow=classic;html=1;" edge="1" parent="ds1vuwu6bbxi6zBLDs3t-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="180" as="sourcePoint" />
+            <mxPoint x="400" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ds1vuwu6bbxi6zBLDs3t-10" value="" style="endArrow=classic;html=1;entryX=0.403;entryY=-0.06;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ds1vuwu6bbxi6zBLDs3t-1" source="ds1vuwu6bbxi6zBLDs3t-7" target="ds1vuwu6bbxi6zBLDs3t-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="590" as="sourcePoint" />
+            <mxPoint x="610" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ds1vuwu6bbxi6zBLDs3t-11" value="3. OKTA Credential Collection" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ds1vuwu6bbxi6zBLDs3t-10">
+          <mxGeometry x="-0.1628" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1yGqfsoNJ3JGCrA-1-N--0" value="OHS with CORS Exceptions" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="ds1vuwu6bbxi6zBLDs3t-1">
+          <mxGeometry x="320" y="430" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="INTEGRATED" id="hWsCCgmqBSp5sbd6agSC">
+    <mxGraphModel dx="3402" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="NGAB5SbDao0E6-DVhg7o-0" />
+        <mxCell id="NGAB5SbDao0E6-DVhg7o-1" parent="NGAB5SbDao0E6-DVhg7o-0" />
+        <mxCell id="NGAB5SbDao0E6-DVhg7o-2" value="OAM" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="NGAB5SbDao0E6-DVhg7o-1">
+          <mxGeometry x="690" y="530" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NGAB5SbDao0E6-DVhg7o-3" value="MEDNEXT OHS&amp;nbsp;&lt;br&gt;With Webgate&lt;br&gt;&lt;br&gt;Reverse Proxy to OAM" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="NGAB5SbDao0E6-DVhg7o-1">
+          <mxGeometry x="760" y="420" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NGAB5SbDao0E6-DVhg7o-4" value="MEDNEXT App" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="NGAB5SbDao0E6-DVhg7o-1">
+          <mxGeometry x="810" y="530" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NGAB5SbDao0E6-DVhg7o-6" value="OKTA" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="NGAB5SbDao0E6-DVhg7o-1">
+          <mxGeometry y="340" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NGAB5SbDao0E6-DVhg7o-7" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="NGAB5SbDao0E6-DVhg7o-1">
+          <mxGeometry x="710" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NGAB5SbDao0E6-DVhg7o-8" value="1. Tries to Access Mednext App" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="NGAB5SbDao0E6-DVhg7o-1" target="NGAB5SbDao0E6-DVhg7o-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="180" as="sourcePoint" />
+            <mxPoint x="610" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NGAB5SbDao0E6-DVhg7o-9" value="2. Redirected to OAM" style="endArrow=classic;html=1;" edge="1" parent="NGAB5SbDao0E6-DVhg7o-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="180" as="sourcePoint" />
+            <mxPoint x="770" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NGAB5SbDao0E6-DVhg7o-10" value="" style="endArrow=classic;html=1;entryX=0.403;entryY=-0.06;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="NGAB5SbDao0E6-DVhg7o-1" source="NGAB5SbDao0E6-DVhg7o-7" target="NGAB5SbDao0E6-DVhg7o-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="590" as="sourcePoint" />
+            <mxPoint x="610" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NGAB5SbDao0E6-DVhg7o-11" value="3. OKTA Credential Collection" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NGAB5SbDao0E6-DVhg7o-10">
+          <mxGeometry x="-0.1628" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
