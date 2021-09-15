@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-15T14:13:32.385Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="vRsdPzZQxkvqnoItmkha" version="15.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-15T17:02:40.573Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="qa9g2fgd6nh-76TE-2tG" version="15.0.3" type="github" pages="2">
   <diagram id="Ej3-xaOhrqgAJqS2VOZ0" name="Page-1">
     <mxGraphModel dx="2066" dy="1008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -117,8 +117,17 @@
         <mxCell id="PT18QgVa9Vtj-pHsASDQ-47" value="OAP" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;dashed=1;dashPattern=1 4;strokeColor=#E07A5F;fontColor=#393C56;labelBackgroundColor=#F4F1DE;" edge="1" parent="PT18QgVa9Vtj-pHsASDQ-1" source="PT18QgVa9Vtj-pHsASDQ-19" target="PT18QgVa9Vtj-pHsASDQ-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="PT18QgVa9Vtj-pHsASDQ-54" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="PT18QgVa9Vtj-pHsASDQ-1" source="PT18QgVa9Vtj-pHsASDQ-19" target="PT18QgVa9Vtj-pHsASDQ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PT18QgVa9Vtj-pHsASDQ-55" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="PT18QgVa9Vtj-pHsASDQ-1" source="PT18QgVa9Vtj-pHsASDQ-19" target="PT18QgVa9Vtj-pHsASDQ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PT18QgVa9Vtj-pHsASDQ-19" value="OHS1/2 RP with Webgates" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="PT18QgVa9Vtj-pHsASDQ-1">
-          <mxGeometry x="620" y="400" width="160" height="20" as="geometry" />
+          <mxGeometry x="620" y="400" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PT18QgVa9Vtj-pHsASDQ-53" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="PT18QgVa9Vtj-pHsASDQ-1" source="PT18QgVa9Vtj-pHsASDQ-20" target="PT18QgVa9Vtj-pHsASDQ-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PT18QgVa9Vtj-pHsASDQ-20" value="LB(sso.example.com)" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="PT18QgVa9Vtj-pHsASDQ-1">
           <mxGeometry x="455" y="400" width="130" height="20" as="geometry" />
@@ -143,10 +152,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PT18QgVa9Vtj-pHsASDQ-23" value="EBS MT with AccessGate" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="PT18QgVa9Vtj-pHsASDQ-1">
-          <mxGeometry x="850" y="80" width="150" height="20" as="geometry" />
+          <mxGeometry x="855" y="50" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PT18QgVa9Vtj-pHsASDQ-24" value="EBS MT with AccessGate" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="PT18QgVa9Vtj-pHsASDQ-1">
-          <mxGeometry x="855" y="225" width="150" height="20" as="geometry" />
+          <mxGeometry x="855" y="182.5" width="150" height="65" as="geometry" />
         </mxCell>
         <mxCell id="PT18QgVa9Vtj-pHsASDQ-45" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.011;entryY=0.593;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;strokeColor=#E07A5F;fontColor=#393C56;labelBackgroundColor=#F4F1DE;" edge="1" parent="PT18QgVa9Vtj-pHsASDQ-1" source="PT18QgVa9Vtj-pHsASDQ-25" target="PT18QgVa9Vtj-pHsASDQ-23">
           <mxGeometry relative="1" as="geometry" />
