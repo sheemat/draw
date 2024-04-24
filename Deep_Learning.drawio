@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-24T16:26:32.703Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="zOVwho43ex8feL3_gqBK" version="24.2.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-04-24T16:28:17.894Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="c55lT_IG--NCuQs7he0T" version="24.2.3" type="github" pages="3">
   <diagram name="TradProgram" id="uHs-3CvCPrh22fPCXdtp">
     <mxGraphModel dx="2074" dy="1266" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -114,7 +114,7 @@
           <mxGeometry x="690" y="460" width="500" height="400" as="geometry" />
         </mxCell>
         <mxCell id="SU_F6nFXGBNwOawikhLc-5" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fontSize=42;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="890" y="750" width="300" height="210" as="geometry" />
+          <mxGeometry x="910" y="760" width="300" height="210" as="geometry" />
         </mxCell>
         <mxCell id="SU_F6nFXGBNwOawikhLc-6" value="Artificial Intelligence" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=42;" vertex="1" parent="1">
           <mxGeometry x="250" y="360" width="220" height="30" as="geometry" />
